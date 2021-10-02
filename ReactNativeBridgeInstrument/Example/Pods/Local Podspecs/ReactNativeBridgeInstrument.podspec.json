@@ -1,0 +1,27 @@
+{
+  "name": "ReactNativeBridgeInstrument",
+  "version": "0.1.0",
+  "summary": "A tool to monitor activity from JavaScript to iOS native modules.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sueLan/ReactNativeBridgeInstrument",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sueLan": "scutryzheng@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sueLan/ReactNativeBridgeInstrument.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ReactNativeBridgeInstrument/Classes/**/*",
+  "dependencies": {
+    "React/Core": [
+
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - React/Core (0.11.0)
+  - ReactNativeBridgeInstrument (0.1.0):
+    - React/Core
+
+DEPENDENCIES:
+  - ReactNativeBridgeInstrument (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - React
+
+EXTERNAL SOURCES:
+  ReactNativeBridgeInstrument:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  React: ab1a2e21deb34965c38328d5ec40cc7d12c6050a
+  ReactNativeBridgeInstrument: 2fd0174764f435febdf3159274d5c1b36a078651
+
+PODFILE CHECKSUM: 7f1ba857c5168f612e8a0c1f3e4835a00b7f4e1b
+
+COCOAPODS: 1.10.0

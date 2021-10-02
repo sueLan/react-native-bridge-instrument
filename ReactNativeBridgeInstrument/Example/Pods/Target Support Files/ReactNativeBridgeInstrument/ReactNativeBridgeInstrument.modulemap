@@ -1,0 +1,6 @@
+framework module ReactNativeBridgeInstrument {
+  umbrella header "ReactNativeBridgeInstrument-umbrella.h"
+
+  export *
+  module * { export * }
+}
